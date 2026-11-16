@@ -1,0 +1,4 @@
+.admin-tag{display:inline-block;margin-left:.4rem;font-size:.7rem;padding:.1rem .5rem;border-radius:99px;background:var(--teal);color:#06231d;vertical-align:middle}
+.opt-edit{display:grid;grid-template-columns:auto 1fr;gap:.5rem;align-items:center;margin-bottom:.5rem}
+.qpick{max-height:340px;overflow:auto;border:1px solid var(--line);border-radius:var(--r-sm);padding:.5rem}.qpick label{display:flex;gap:.6rem;font-weight:400;padding:.35rem;border-radius:6px}.qpick label:hover{background:var(--surface-2)}
+.two{display:grid;grid-template-columns:1fr 1fr;gap:var(--s2)}@media(max-width:560px){.two{grid-template-columns:1fr}}
